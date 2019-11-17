@@ -1,0 +1,3 @@
+# MooreVeMealyMakinesi
+Bu repository Moore ve Mealy Makinesi kodlarını içermektedir.
+Coded by Yavuz Sinan Aydemir...
